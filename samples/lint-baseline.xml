@@ -14,7 +14,7 @@
 
     <issue
         id="NotificationPermission"
-        message="When targeting Android 13 or higher, posting a permission requires holding the `POST_NOTIFICATIONS` permission (usage from org.fossify.commons.asynctasks.CopyMoveTask)">
+        message="When targeting Android 13 or higher, posting a permission requires holding the `POST_NOTIFICATIONS` permission (usage from com.adika.commons.asynctasks.CopyMoveTask)">
         <location
             file="src/main/AndroidManifest.xml"/>
     </issue>
@@ -47,7 +47,7 @@
         errorLine1="class SplashActivity : BaseSplashActivity() {"
         errorLine2="      ~~~~~~~~~~~~~~">
         <location
-            file="src/main/kotlin/org/fossify/commons/samples/activities/SplashActivity.kt"
+            file="src/main/kotlin/com/adika/commons/samples/activities/SplashActivity.kt"
             line="6"
             column="7"/>
     </issue>

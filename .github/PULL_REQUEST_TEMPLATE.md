@@ -17,12 +17,12 @@
 - After:
 
 #### Fixes the following issue(s)
-<!-- Prefix issues with "Fixes FossifyOrg/AppRepo" so that GitHub closes them when this PR is merged (note that each "Fixes #" should be in its own item). For Commons, it should always be in a format like "Fixes FossifyOrg/AppRepo#123" -->
-- Fixes FossifyOrg/
+<!-- Prefix issues with "Fixes AdikaOrg/AppRepo" so that GitHub closes them when this PR is merged (note that each "Fixes #" should be in its own item). For Commons, it should always be in a format like "Fixes AdikaOrg/AppRepo#123" -->
+- Fixes AdikaOrg/
 
 #### Relies on the following changes
 <!-- Delete this if it doesn't apply to your PR. -->
 - 
 
 #### Acknowledgement
-- [ ] I read the [contribution guidelines](https://github.com/FossifyOrg/Commons/blob/master/CONTRIBUTING.md).
+- [ ] I read the [contribution guidelines](https://github.com/AdikaOrg/Commons/blob/master/CONTRIBUTING.md).

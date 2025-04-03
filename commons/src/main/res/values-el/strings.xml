@@ -333,7 +333,7 @@
     <string name="global_theme_success">Τα χρώματα ενημερώθηκαν με επιτυχία. Ένα νέο θέμα που ονομάζεται  \"Κοινόχρηστο\" έχει προστεθεί, παρακαλούμε να χρησιμοποιήστε το για την ενημέρωση των χρωμάτων όλων των εφαρμ. στο μέλλον.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Παρακαλώ αγοράστε την <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Απλά Σας Ευχαριστώ</a> για να ξεκλειδώσετε αυτή τη λειτουργία για να υποστηρίξετε την ανάπτυξη. Ευχαριστώ!
+            Παρακαλώ αγοράστε την <a href="https://play.google.com/store/apps/details?id=com.adika.thankyou">Απλά Σας Ευχαριστώ</a> για να ξεκλειδώσετε αυτή τη λειτουργία για να υποστηρίξετε την ανάπτυξη. Ευχαριστώ!
         ]]>
     </string>
     <string name="light_theme">Φωτεινό</string>
@@ -811,7 +811,7 @@
     <string name="donate_please">
         <![CDATA[
             Γειά σας,<br><br>
-            Ελπίζω να απολαμβάνετε την εφαρμογή. Δεν περιέχει διαφημίσεις, παρακαλώ υποστηρίξτε την ανάπτυξή της με την αγορά στο <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Απλά Σας Ευχαριστούμε</a>, θα αποτρέψει επίσης την εμφάνιση αυτού του διαλόγου.<br><br>
+            Ελπίζω να απολαμβάνετε την εφαρμογή. Δεν περιέχει διαφημίσεις, παρακαλώ υποστηρίξτε την ανάπτυξή της με την αγορά στο <a href="https://play.google.com/store/apps/details?id=com.adika.thankyou">Απλά Σας Ευχαριστούμε</a>, θα αποτρέψει επίσης την εμφάνιση αυτού του διαλόγου.<br><br>
             Ευχαριστούμε!
         ]]>
     </string>
@@ -869,7 +869,7 @@
     <string name="faq_2_text_commons">
         <![CDATA[
             Ναι, φυσικά. Μπορείτε να διαδώσετε τις εφαρμογές ή να δώσετε καλά σχόλια και αξιολογήσεις. Μπορείτε επίσης να βοηθήσετε με τη μετάφραση των εφαρμογών σε μια νέα γλώσσα ή απλώς να ενημερώστε κάποιες υπάρχουσες μεταφράσεις..
-            Ο οδηγός μετάφρασης βρίσκεται στον <a href="https://github.com/FossifyOrg/General-Discussion#how-can-i-suggest-an-edit-to-a-file">ιστότοπο</a>, ή απλά επικοινωνήστε μαζί μας στο <a href="mailto:hello@fossify.org">hello@fossify.org</a> αν έχετε οποιεσδήποτε ερωτήσεις.
+            Ο οδηγός μετάφρασης βρίσκεται στον <a href="https://github.com/AdikaOrg/General-Discussion#how-can-i-suggest-an-edit-to-a-file">ιστότοπο</a>, ή απλά επικοινωνήστε μαζί μας στο <a href="mailto:hello@fossify.org">hello@fossify.org</a> αν έχετε οποιεσδήποτε ερωτήσεις.
         ]]>
     </string>
     <string name="faq_3_title_commons">Διαγραφή κάποιων αρχείων κατά λάθος, πώς μπορώ να τα ανακτήσω;</string>
@@ -898,7 +898,7 @@
     <string name="contributors_label">
         <![CDATA[
             Αυτή η λίστα περιέχει όλους όσους βοήθησαν αισθητά οποιαδήποτε εφαρμογή της σουίτας Fossify, όχι μόνο αυτή. Οι μεταφράσεις γίνονται από εθελοντές,
-            πείτε μας αν θέλετε να βοηθήσετε κι εσείς. Ο οδηγός για τη μετάφραση βρίσκεται στον <a href="https://github.com/FossifyOrg/General-Discussion#how-can-i-suggest-an-edit-to-a-file">ιστότοπο</a>, ή επικοινωνήστε μαζί μας στο <a href="mailto:hello@fossify.org">hello@fossify.org</a> αν έχετε οποιεσδήποτε ερωτήσεις.
+            πείτε μας αν θέλετε να βοηθήσετε κι εσείς. Ο οδηγός για τη μετάφραση βρίσκεται στον <a href="https://github.com/AdikaOrg/General-Discussion#how-can-i-suggest-an-edit-to-a-file">ιστότοπο</a>, ή επικοινωνήστε μαζί μας στο <a href="mailto:hello@fossify.org">hello@fossify.org</a> αν έχετε οποιεσδήποτε ερωτήσεις.
             Ευχαριστούμε όλους τους συνεισφέροντες και υποστηρικτές!
         ]]>
     </string>
@@ -951,7 +951,7 @@
         <item quantity="one">Η δοκιμή σας λήγει σε %d ημέρα.</item>
         <item quantity="other">Η δοκιμή σας λήγει σε %d ημέρες.</item>
     </plurals>
-    <string name="deprecated_app">ΚΑΤΑΡΓΗΣΗ: Αυτή η έκδοση της εφαρμογής δεν υποστηρίζεται πλέον, λάβετε την έκδοση Pro εδώ https://play.google.com/store/apps/details?id=org.fossify..xxx.pro</string>
+    <string name="deprecated_app">ΚΑΤΑΡΓΗΣΗ: Αυτή η έκδοση της εφαρμογής δεν υποστηρίζεται πλέον, λάβετε την έκδοση Pro εδώ https://play.google.com/store/apps/details?id=com.adika..xxx.pro</string>
     <string name="pro_app_refund">Μην ξεχνάτε οτι αν απεγκατασταθεί εντός 2 ωρών, θα επιστραφούν αυτόματα τα χρήματα σας. Αν θέλετε επιστροφή χρημάτων οποιαδήποτε στιγμή αργότερα, απλά επικοινωνήστε μαζί μας στο hello@fossify.org και θα τα λάβετε. Αυτό το κάνει εύκολότερο για να την δοκιμάσετε :)</string>
     <string name="developer_description">Μια ομάδα Απλών εφαρμογών Android ανοιχτού κώδικα με προσαρμόσιμα γραφικά στοιχεία, χωρίς διαφημίσεις και περιττές Άδειες.</string>
 </resources>
